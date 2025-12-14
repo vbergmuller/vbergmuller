@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🌱 Estou atualmente aprendendo JavaScript;
-- 😄 Meus Pronomes: Ele/dele
+- 🌱 I'm learning JavaScript;
+- 😄 My pronouns: He/him
 
 ##
 
