@@ -7,15 +7,15 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/olupi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olupi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olupi&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/vbergmuller">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vbergmuller&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbergmuller&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   
   </div>
   <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=olupi&theme=dark">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vbergmuller&theme=dark">
   </div>
   
   
